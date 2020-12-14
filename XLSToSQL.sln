@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLSToSQL", "XLSToSQL\XLSToSQL.csproj", "{2ECCF5A3-9635-447C-AFC2-FE2D410E992C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECCF5A3-9635-447C-AFC2-FE2D410E992C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECCF5A3-9635-447C-AFC2-FE2D410E992C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECCF5A3-9635-447C-AFC2-FE2D410E992C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECCF5A3-9635-447C-AFC2-FE2D410E992C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD85321C-5159-4706-874A-5235E542E83A}
+	EndGlobalSection
+EndGlobal
